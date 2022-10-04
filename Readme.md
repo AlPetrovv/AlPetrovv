@@ -6,5 +6,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlPetrovv)](https://github.com/AlPetrovv/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AlPetrovv&theme=dark)](https://github.com/AlPetrovv/leetcode-stats)
+
 
