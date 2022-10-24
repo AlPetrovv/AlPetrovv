@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center"> I love writing in Python</h2>  
 <p>Technonlogie, that i know:</p>
-<p>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </p>
+<p>https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 </p>
 
 
 
