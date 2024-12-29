@@ -1,8 +1,8 @@
-[//]: # (<h1 align="center">Hi there, I'm <a href="https://t.me/al_reux target="_blank">Aleksandr</a> )
+<h1 align="center">Hi there, I'm <a href="https://t.me/al_reux target="_blank">Aleksandr</a> 
 
-[//]: # (<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>)
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[//]: # (<p>Technonlogie, that I know:</p>)
+<p>Technonlogie, that I know:</p>
 
 ### Languages
 
