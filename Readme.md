@@ -1,59 +1,113 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/al_reux target="_blank">Aleksandr</a> 
+<div align="center">
 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Aleksandr
 
-<p>Technonlogie, that I know:</p>
+**Backend Engineer** · Python · Distributed Systems
 
-### Languages
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/al_roux)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:a249230393@gmail.com)
+[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/AlPetrovv)
 
-![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&color=3776AB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Frameworks
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGOREST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
-![FastAPI](https://img.shields.io/badge/fastapi-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white) 
-![jquery](https://img.shields.io/badge/jquery-%23092E20.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Libraries
-![Asyncio](https://img.shields.io/badge/asyncio-%231485B4.svg?style=for-the-badge&logo=asyncio&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%231485B4.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white]) 
-![Alembic](https://img.shields.io/badge/Alembic-%231485B4.svg?style=for-the-badge&logo=alembic&logoColor=white]) 
-![Celery](https://img.shields.io/badge/celery-%23E34F26.svg?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/python_redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Pydantic](https://img.shields.io/badge/pydantic-%231485B4.svg?style=for-the-badge&logo=pydantic&logoColor=white)
-![Etc](https://img.shields.io/badge/AND_ETC...-%231485B4.svg?style=for-the-badge&logo=etc&logoColor=white)
-
-### Databases
-![Redis](https://img.shields.io/badge/Database-redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Postgres](https://img.shields.io/badge/Database-postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23000000.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white)
-
-### CI/DC and Tools
-![Docker](https://img.shields.io/badge/docker-compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Additional
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
-📊 My stats:
-
-[![Codewarrior Profile Badges](https://www.codewars.com/users/AlPetrovv/badges/small?theme=light)](https://www.codewars.com/users/AlPetrovv)
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=alpetrovv&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=alpetrovv&hide=issues&show_icons=true" />
-</a>   
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alpetrovv&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpetrovv&layout=compact" />
-</a>
 </div>
 
+---
 
+### Stack
 
+<table>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Async / Queues</b></td>
+<td>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/TaskIQ-5C2D91?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Infra</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Tests</b></td>
+<td>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Monitoring</b></td>
+<td>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Promtail-FFC107?style=flat-square&logo=grafana&logoColor=black" />
+<img src="https://img.shields.io/badge/cAdvisor-2496ED?style=flat-square&logo=googlecontainerregistry&logoColor=white" />
+<img src="https://img.shields.io/badge/Loguru-4B8BBE?style=flat-square&logo=python&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Patterns</b></td>
+<td>
+<img src="https://img.shields.io/badge/DDD-1E88E5?style=flat-square" />
+<img src="https://img.shields.io/badge/SOLID-43A047?style=flat-square" />
+<img src="https://img.shields.io/badge/Hexagonal-8E24AA?style=flat-square" />
+<img src="https://img.shields.io/badge/TDD-E53935?style=flat-square" />
+</td>
+</tr>
+</table>
 
+---
+
+### Projects
+
+| | Project | Stack |
+|---|---|---|
+| ◆ | **Organization Service** — async REST API for org management | FastAPI · SQLAlchemy · Alembic · PostgreSQL |
+| ◆ | **Task Queue Platform** — distributed background jobs | Celery · Redis · Django |
+
+> More on my [pinned repos](https://github.com/alpetrovv) ↗
+
+---
+
+### Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=alpetrovv&show_icons=true&hide_border=true&hide_title=true&theme=transparent&icon_color=8b949e&text_color=c9d1d9&hide=contribs" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpetrovv&layout=compact&hide_border=true&theme=transparent&text_color=c9d1d9&title_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alpetrovv&hide_border=true&theme=transparent&ring=8b949e&fire=8b949e&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" height="160"/>
+
+<br/>
+
+[![Codewars](https://www.codewars.com/users/AlPetrovv/badges/small)](https://www.codewars.com/users/AlPetrovv)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>open to collaboration · backend roles · interesting problems</sub>
+
+</div>
